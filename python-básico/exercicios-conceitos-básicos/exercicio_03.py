@@ -1,7 +1,7 @@
 # 3. Faça um Programa que peça a quantidade de quilômetros, transforme
 # em metros, centímetros e milímetros.
 
-quilometros = float(input("Quilômetros: "))
+quilometros = float(input("Digite os quilômetros para conversão: "))
 
 
 conversao_metros = quilometros * 1000
